@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-the-shrine-of-sts-peter--paul-cumberland-md-360-1",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 1",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -50,7 +50,7 @@ var APP_DATA = {
     },
     {
       "id": "1-the-shrine-of-sts-peter--paul-cumberland-md-360-2",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 2",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -116,7 +116,7 @@ var APP_DATA = {
     },
     {
       "id": "2-the-shrine-of-sts-peter--paul-cumberland-md-360-3",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 3",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -212,7 +212,7 @@ var APP_DATA = {
     },
     {
       "id": "3-the-shrine-of-sts-peter--paul-cumberland-md-360-4",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 4",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -272,7 +272,7 @@ var APP_DATA = {
     },
     {
       "id": "4-the-shrine-of-sts-peter--paul-cumberland-md-360-5",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 5",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -356,7 +356,7 @@ var APP_DATA = {
     },
     {
       "id": "5-the-shrine-of-sts-peter--paul-cumberland-md-360-6",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 6",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -404,7 +404,7 @@ var APP_DATA = {
     },
     {
       "id": "6-the-shrine-of-sts-peter--paul-cumberland-md-360-7",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 7",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -470,7 +470,7 @@ var APP_DATA = {
     },
     {
       "id": "7-the-shrine-of-sts-peter--paul-cumberland-md-360-8",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 8",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -505,7 +505,7 @@ var APP_DATA = {
     },
     {
       "id": "8-the-shrine-of-sts-peter--paul-cumberland-md-360-9",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 9",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -589,7 +589,7 @@ var APP_DATA = {
     },
     {
       "id": "9-the-shrine-of-sts-peter--paul-cumberland-md-360-10",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 10",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -637,7 +637,7 @@ var APP_DATA = {
     },
     {
       "id": "10-the-shrine-of-sts-peter--paul-cumberland-md-360-11",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 11",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -733,7 +733,7 @@ var APP_DATA = {
     },
     {
       "id": "11-the-shrine-of-sts-peter--paul-cumberland-md-360-12",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 12",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -835,7 +835,7 @@ var APP_DATA = {
     },
     {
       "id": "12-the-shrine-of-sts-peter--paul-cumberland-md-360-13",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 13",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -919,7 +919,7 @@ var APP_DATA = {
     },
     {
       "id": "13-the-shrine-of-sts-peter--paul-cumberland-md-360-14",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 14",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1003,7 +1003,7 @@ var APP_DATA = {
     },
     {
       "id": "14-the-shrine-of-sts-peter--paul-cumberland-md-360-15",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 15",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1099,7 +1099,7 @@ var APP_DATA = {
     },
     {
       "id": "15-the-shrine-of-sts-peter--paul-cumberland-md-360-16",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 16",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1195,7 +1195,7 @@ var APP_DATA = {
     },
     {
       "id": "16-the-shrine-of-sts-peter--paul-cumberland-md-360-17",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 17",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1255,7 +1255,7 @@ var APP_DATA = {
     },
     {
       "id": "17-the-shrine-of-sts-peter--paul-cumberland-md-360-18",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 18",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1303,7 +1303,7 @@ var APP_DATA = {
     },
     {
       "id": "18-the-shrine-of-sts-peter--paul-cumberland-md-360-19",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 19",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1363,7 +1363,7 @@ var APP_DATA = {
     },
     {
       "id": "19-the-shrine-of-sts-peter--paul-cumberland-md-360-20",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 20",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1435,7 +1435,7 @@ var APP_DATA = {
     },
     {
       "id": "20-the-shrine-of-sts-peter--paul-cumberland-md-360-21",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 21",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1513,7 +1513,7 @@ var APP_DATA = {
     },
     {
       "id": "21-the-shrine-of-sts-peter--paul-cumberland-md-360-22",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 22",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1603,7 +1603,7 @@ var APP_DATA = {
     },
     {
       "id": "22-the-shrine-of-sts-peter--paul-cumberland-md-360-23",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 23",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1663,7 +1663,7 @@ var APP_DATA = {
     },
     {
       "id": "23-the-shrine-of-sts-peter--paul-cumberland-md-360-24",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 24",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1759,7 +1759,7 @@ var APP_DATA = {
     },
     {
       "id": "24-the-shrine-of-sts-peter--paul-cumberland-md-360-25",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 25",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1855,7 +1855,7 @@ var APP_DATA = {
     },
     {
       "id": "25-the-shrine-of-sts-peter--paul-cumberland-md-360-26",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 26",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1945,7 +1945,7 @@ var APP_DATA = {
     },
     {
       "id": "26-the-shrine-of-sts-peter--paul-cumberland-md-360-27",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 27",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -2017,7 +2017,7 @@ var APP_DATA = {
     },
     {
       "id": "27-the-shrine-of-sts-peter--paul-cumberland-md-360-28",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 28",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -2095,7 +2095,7 @@ var APP_DATA = {
     },
     {
       "id": "28-the-shrine-of-sts-peter--paul-cumberland-md-360-29",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 29",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -2179,7 +2179,7 @@ var APP_DATA = {
     },
     {
       "id": "29-the-shrine-of-sts-peter--paul-cumberland-md-360-30",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 30",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -2257,7 +2257,7 @@ var APP_DATA = {
     },
     {
       "id": "30-the-shrine-of-sts-peter--paul-cumberland-md-360-31",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 360 31",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
