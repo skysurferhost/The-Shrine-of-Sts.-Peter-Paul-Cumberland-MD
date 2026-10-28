@@ -1384,6 +1384,198 @@ body.mobile {
     padding-top: var(--ss-phone-title-height, 50px) !important;
   }
 }
+
+/* Sky Surfer: Joyful Mysteries-style PHONE title wrapping.
+   Desktop stays unchanged. Phone titles use the same readable behavior as the
+   Joyful Mysteries project: one centered line when it fits, otherwise a centered
+   second line instead of an ellipsis. */
+@media (max-width: 768px) {
+  .mobile #titleBar {
+    height: var(--ss-phone-title-height, 50px) !important;
+  }
+
+  .mobile #titleBar .sceneName {
+    /* Override Marzipano's normal nowrap/ellipsis title treatment. */
+    display: flex !important;
+    -webkit-box-orient: initial !important;
+    -webkit-line-clamp: unset !important;
+    line-clamp: unset !important;
+
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+
+    /* Keep the existing left/right control clearance from the generated theme. */
+    width: auto !important;
+    height: var(--ss-phone-title-height, 50px) !important;
+    min-height: var(--ss-phone-title-height, 50px) !important;
+    max-height: var(--ss-phone-title-height, 50px) !important;
+    margin: 0 !important;
+    padding: 4px 8px !important;
+
+    /* Allow up to two readable lines; never replace the title with "...". */
+    white-space: normal !important;
+    word-break: keep-all !important;
+    overflow-wrap: anywhere !important;
+    text-overflow: clip !important;
+    overflow: hidden !important;
+    line-height: 1.35 !important;
+
+    box-sizing: border-box !important;
+    unicode-bidi: plaintext;
+  }
+}
+/* PHONE TOP-BAR SYNC: when Phone Title Bar Height is changed, keep the scene
+   list, autorotate, and fullscreen control areas exactly the same height and
+   vertically center their symbols. Widths remain the normal 50px so the title
+   keeps the same horizontal room. */
+@media (max-width: 768px) {
+  body.mobile #sceneListToggle,
+  body.mobile #autorotateToggle,
+  body.mobile #fullscreenToggle {
+    top: 0 !important;
+    width: 50px !important;
+    height: var(--ss-phone-title-height, 50px) !important;
+    min-height: var(--ss-phone-title-height, 50px) !important;
+    max-height: var(--ss-phone-title-height, 50px) !important;
+    box-sizing: border-box !important;
+  }
+
+  body.mobile #sceneListToggle { left: 0 !important; }
+  body.mobile #autorotateToggle { right: 50px !important; }
+  body.mobile #fullscreenToggle { right: 0 !important; }
+
+  /* Standard Marzipano image icons stay their normal size and move to the
+     vertical center of the taller control area. */
+  body.mobile #sceneListToggle .icon,
+  body.mobile #autorotateToggle .icon,
+  body.mobile #fullscreenToggle .icon {
+    top: calc((var(--ss-phone-title-height, 50px) - 30px) / 2) !important;
+  }
+
+  body.mobile #sceneListToggle .icon,
+  body.mobile #autorotateToggle .icon {
+    right: 10px !important;
+  }
+
+  body.mobile #fullscreenToggle .icon {
+    right: 10px !important;
+  }
+
+  /* Custom/modern scene-list and fullscreen styles use ::before artwork.
+     Give that artwork a fixed 30px box so increasing the bar height centers
+     the symbol instead of stretching it vertically. */
+  body.mobile #sceneListToggle::before,
+  body.mobile #fullscreenToggle::before {
+    inset: auto 10px !important;
+    top: 50% !important;
+    height: 30px !important;
+    transform: translateY(-50%) !important;
+    background-position: center !important;
+    background-size: contain !important;
+  }
+
+  /* An open scene list must begin below the newly sized header as well. */
+  body.mobile #sceneList {
+    padding-top: var(--ss-phone-title-height, 50px) !important;
+  }
+}
+
+/* Sky Surfer: Joyful Mysteries-style PHONE title wrapping.
+   Desktop stays unchanged. Phone titles use the same readable behavior as the
+   Joyful Mysteries project: one centered line when it fits, otherwise a centered
+   second line instead of an ellipsis. */
+@media (max-width: 768px) {
+  .mobile #titleBar {
+    height: var(--ss-phone-title-height, 50px) !important;
+  }
+
+  .mobile #titleBar .sceneName {
+    /* Override Marzipano's normal nowrap/ellipsis title treatment. */
+    display: flex !important;
+    -webkit-box-orient: initial !important;
+    -webkit-line-clamp: unset !important;
+    line-clamp: unset !important;
+
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+
+    /* Keep the existing left/right control clearance from the generated theme. */
+    width: auto !important;
+    height: var(--ss-phone-title-height, 50px) !important;
+    min-height: var(--ss-phone-title-height, 50px) !important;
+    max-height: var(--ss-phone-title-height, 50px) !important;
+    margin: 0 !important;
+    padding: 4px 8px !important;
+
+    /* Allow up to two readable lines; never replace the title with "...". */
+    white-space: normal !important;
+    word-break: keep-all !important;
+    overflow-wrap: anywhere !important;
+    text-overflow: clip !important;
+    overflow: hidden !important;
+    line-height: 1.35 !important;
+
+    box-sizing: border-box !important;
+    unicode-bidi: plaintext;
+  }
+}
+/* PHONE TOP-BAR SYNC: when Phone Title Bar Height is changed, keep the scene
+   list, autorotate, and fullscreen control areas exactly the same height and
+   vertically center their symbols. Widths remain the normal 50px so the title
+   keeps the same horizontal room. */
+@media (max-width: 768px) {
+  body.mobile #sceneListToggle,
+  body.mobile #autorotateToggle,
+  body.mobile #fullscreenToggle {
+    top: 0 !important;
+    width: 50px !important;
+    height: var(--ss-phone-title-height, 50px) !important;
+    min-height: var(--ss-phone-title-height, 50px) !important;
+    max-height: var(--ss-phone-title-height, 50px) !important;
+    box-sizing: border-box !important;
+  }
+
+  body.mobile #sceneListToggle { left: 0 !important; }
+  body.mobile #autorotateToggle { right: 50px !important; }
+  body.mobile #fullscreenToggle { right: 0 !important; }
+
+  /* Standard Marzipano image icons stay their normal size and move to the
+     vertical center of the taller control area. */
+  body.mobile #sceneListToggle .icon,
+  body.mobile #autorotateToggle .icon,
+  body.mobile #fullscreenToggle .icon {
+    top: calc((var(--ss-phone-title-height, 50px) - 30px) / 2) !important;
+  }
+
+  body.mobile #sceneListToggle .icon,
+  body.mobile #autorotateToggle .icon {
+    right: 10px !important;
+  }
+
+  body.mobile #fullscreenToggle .icon {
+    right: 10px !important;
+  }
+
+  /* Custom/modern scene-list and fullscreen styles use ::before artwork.
+     Give that artwork a fixed 30px box so increasing the bar height centers
+     the symbol instead of stretching it vertically. */
+  body.mobile #sceneListToggle::before,
+  body.mobile #fullscreenToggle::before {
+    inset: auto 10px !important;
+    top: 50% !important;
+    height: 30px !important;
+    transform: translateY(-50%) !important;
+    background-position: center !important;
+    background-size: contain !important;
+  }
+
+  /* An open scene list must begin below the newly sized header as well. */
+  body.mobile #sceneList {
+    padding-top: var(--ss-phone-title-height, 50px) !important;
+  }
+}
 /* Clean transparent autorotate control. Keep Marzipano's original white video-style play/pause artwork. */
 #autorotateToggle { background:transparent !important; background-color:transparent !important; border:0 !important; box-shadow:none !important; top:0 !important; right:40px !important; width:40px !important; height:40px !important; padding:0 !important; box-sizing:border-box !important; }
 #fullscreenToggle { top:0 !important; right:0 !important; width:40px !important; height:40px !important; box-sizing:border-box !important; }

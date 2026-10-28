@@ -110,6 +110,12 @@ var APP_DATA = {
           "pitch": 0.07755210717955663,
           "rotation": 0,
           "target": "11-the-shrine-of-sts-peter--paul-cumberland-md-360-12"
+        },
+        {
+          "yaw": 3.1131410347748147,
+          "pitch": 0.027586603619845107,
+          "rotation": 0,
+          "target": "16-the-shrine-of-sts-peter--paul-cumberland-md-360-17"
         }
       ],
       "infoHotspots": []
@@ -1297,6 +1303,18 @@ var APP_DATA = {
           "pitch": -0.3346672157004278,
           "rotation": 0,
           "target": "23-the-shrine-of-sts-peter--paul-cumberland-md-360-24"
+        },
+        {
+          "yaw": -1.9698516791365286,
+          "pitch": -0.7926626960272358,
+          "rotation": 0,
+          "target": "27-the-shrine-of-sts-peter--paul-cumberland-md-360-28"
+        },
+        {
+          "yaw": -1.0829395521854153,
+          "pitch": -1.1601051127282744,
+          "rotation": 0,
+          "target": "26-the-shrine-of-sts-peter--paul-cumberland-md-360-27"
         }
       ],
       "infoHotspots": []
@@ -1357,6 +1375,18 @@ var APP_DATA = {
           "pitch": -0.6835111391586732,
           "rotation": 0,
           "target": "25-the-shrine-of-sts-peter--paul-cumberland-md-360-26"
+        },
+        {
+          "yaw": -0.37398268257784295,
+          "pitch": -0.9446148144106203,
+          "rotation": 0,
+          "target": "26-the-shrine-of-sts-peter--paul-cumberland-md-360-27"
+        },
+        {
+          "yaw": -1.2656218515285431,
+          "pitch": -0.7830454865527123,
+          "rotation": 0,
+          "target": "27-the-shrine-of-sts-peter--paul-cumberland-md-360-28"
         }
       ],
       "infoHotspots": []
@@ -2011,6 +2041,24 @@ var APP_DATA = {
           "pitch": -0.22193082905499395,
           "rotation": 0,
           "target": "29-the-shrine-of-sts-peter--paul-cumberland-md-360-30"
+        },
+        {
+          "yaw": -0.053974918491553225,
+          "pitch": 1.4290543189608478,
+          "rotation": 0,
+          "target": "16-the-shrine-of-sts-peter--paul-cumberland-md-360-17"
+        },
+        {
+          "yaw": 1.0673444550763236,
+          "pitch": 1.1936898427392943,
+          "rotation": 0,
+          "target": "17-the-shrine-of-sts-peter--paul-cumberland-md-360-18"
+        },
+        {
+          "yaw": 1.3340569937959543,
+          "pitch": 1.008049957813153,
+          "rotation": 0,
+          "target": "18-the-shrine-of-sts-peter--paul-cumberland-md-360-19"
         }
       ],
       "infoHotspots": []
