@@ -2037,8 +2037,8 @@ var APP_DATA = {
           "target": "28-the-shrine-of-sts-peter--paul-cumberland-md-360-29"
         },
         {
-          "yaw": -0.02467047570512193,
-          "pitch": -0.22193082905499395,
+          "yaw": -0.004996259101345046,
+          "pitch": -0.2390128473764257,
           "rotation": 0,
           "target": "29-the-shrine-of-sts-peter--paul-cumberland-md-360-30"
         },
