@@ -110,12 +110,6 @@ var APP_DATA = {
           "pitch": 0.07755210717955663,
           "rotation": 0,
           "target": "11-the-shrine-of-sts-peter--paul-cumberland-md-360-12"
-        },
-        {
-          "yaw": 3.099399012595133,
-          "pitch": 0.0345806619296809,
-          "rotation": 0,
-          "target": "0-the-shrine-of-sts-peter--paul-cumberland-md-360-1"
         }
       ],
       "infoHotspots": []
@@ -1201,7 +1195,7 @@ var APP_DATA = {
     },
     {
       "id": "16-the-shrine-of-sts-peter--paul-cumberland-md-360-17",
-      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD 17",
+      "name": "The Shrine of Sts. Peter & Paul Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
