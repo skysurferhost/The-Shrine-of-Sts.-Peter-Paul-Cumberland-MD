@@ -709,6 +709,7 @@
   }
 
   // Display the initial scene.
-  switchScene(scenes[0]);
+  // SKY_SURFER_CUSTOM_FIRST_SCENE_V1 id="27-the-shrine-of-sts-peter--paul-cumberland-md-360-28"
+  switchScene(findSceneById("27-the-shrine-of-sts-peter--paul-cumberland-md-360-28"));
 
 })();
